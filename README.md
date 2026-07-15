@@ -18,10 +18,10 @@ This project demonstrates an interactive Sales Dashboard built using Microsoft E
 - Pivot Charts
 - Excel Tables
 - Formulas
-
+- 
 ## Dashboard
 
-(Add Dashboard Screenshot Here)
+![Excel Sales Dashboard](Screenshot%20(263).png)
 
 ## Skills Demonstrated
 - Data Cleaning
